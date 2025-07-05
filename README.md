@@ -23,5 +23,3 @@
 <p align="left">-🖥️Estou aprofudando meus conhecimentos no Front-end.<br>-🌱Estudando REACT.</p>
 
 ###
-
-<h3 align="left">🛠 Language and tools</h3>
