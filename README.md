@@ -13,9 +13,10 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/gabrieelsza/gabrieelsza" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://www.instagram.com/oigaabriel_/" width="52" height="40" alt="instagram logo"  />
-  <img src="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWscznDzBDnlDXGVZmcpbbhkBtcRjWWsQbftCrBCLgKsGRTdvTtsqtSXqJpVkvPqWbWCXptBq" width="52" height="40" alt="gmail logo"  />
+  <a href = "www.linkedin.com/in/gabriel-leonardo-" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
+  <a href = "https://www.instagram.com/oigaabriel_/">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /> </a>
+  <a href = "mailto:biel.leonardo300@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
 
 ###
