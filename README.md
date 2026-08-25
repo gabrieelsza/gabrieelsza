@@ -28,7 +28,7 @@ Desenvolvedor Front-End focado no desenvolvimento de interfaces responsivas, int
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
+<div >
 
 | Categoria | Tecnologias |
 | :--- | :--- |
