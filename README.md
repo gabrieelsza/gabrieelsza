@@ -1,20 +1,15 @@
-<h1 align="left">Olá!</h1>
-
-###
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img width="850" height="400" src="https://i.pinimg.com/1200x/96/97/8d/96978d31c9e0a698b600608827efbe20.jpg"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=220&section=header&text=Gabriel%20Souza&fontSize=60&fontAlignY=38&animation=twinkling&desc=Desenvolvedor%20Front-End%20%7C%20React%20%26%20TypeScript&descAlignY=62" width="100%" />
+  <h1 align="center"> Hi👋, Gabriel Souza! </h1>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-leonardo-dev)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biel.leonardo300@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrieelsza)
 </div>
-
----
 
 ### 👨‍💻 Sobre Mim
 
